@@ -1,10 +1,10 @@
 
 import features.hibernate.HibernateUtil;
 import features.initDB.DBInitAndPopulateService;
-import features.spaceTravel.client.Client;
-import features.spaceTravel.client.ClientCrudService;
-import features.spaceTravel.planet.Planet;
-import features.spaceTravel.planet.PlanetCrudService;
+import features.spaceTravel.Client;
+import features.services.ClientCrudService;
+import features.spaceTravel.Planet;
+import features.services.PlanetCrudService;
 
 import java.util.List;
 

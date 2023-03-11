@@ -1,4 +1,4 @@
-package features.spaceTravel.ticket;
+package features.spaceTravel;
 
 import jakarta.persistence.*;
 import lombok.Data;

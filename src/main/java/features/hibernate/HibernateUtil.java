@@ -1,8 +1,8 @@
 package features.hibernate;
 
-import features.spaceTravel.client.Client;
-import features.spaceTravel.planet.Planet;
-import features.spaceTravel.ticket.Ticket;
+import features.spaceTravel.Client;
+import features.spaceTravel.Planet;
+import features.spaceTravel.Ticket;
 import lombok.Getter;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;

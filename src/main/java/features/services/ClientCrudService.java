@@ -1,7 +1,7 @@
-package features.spaceTravel.client;
+package features.services;
 
 import features.hibernate.HibernateUtil;
-import features.spaceTravel.planet.Planet;
+import features.spaceTravel.Client;
 import jakarta.persistence.RollbackException;
 import org.hibernate.HibernateException;
 import org.hibernate.Session;
